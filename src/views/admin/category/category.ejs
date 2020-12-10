@@ -1,0 +1,128 @@
+<%- include('../header') %>
+<style>
+    .dropbtn {
+        background-color: dodgerblue;
+        color: white;
+        padding: 6px;
+        font-size: 16px;
+        border: none;
+        cursor: pointer;
+    }
+
+    .dropdown {
+        position: relative;
+        display: inline-block;
+        margin-left: 1rem;
+    }
+
+    .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        min-width: 225px;
+        box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+        z-index: 1;
+    }
+
+    .dropdown-content a {
+        color: black;
+        padding: 14px 20px;
+        text-decoration: none;
+        display: block;
+    }
+
+    .dropdown-content a:hover {
+        background-color: #f1f1f1
+    }
+
+    .dropdown:hover .dropdown-content {
+        display: block;
+    }
+
+    .dropdown:hover .dropbtn {
+        background-color: #3e8e41;
+    }
+</style>
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="row">
+        <ol class="breadcrumb">
+            <li><a href="#"><svg class="glyph stroked home">
+                        <use xlink:href="#stroked-home"></use>
+                    </svg></a></li>
+            <li class="active">Danh sách danh mục</li>
+        </ol>
+    </div>
+    <!--/.row-->
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Danh sách danh mục</h1>
+        </div>
+    </div>
+    <!--/.row-->
+    <div id="toolbar" class="btn-group">
+        <a href="/category/add" class="btn btn-success">
+            <i class="glyphicon glyphicon-plus"></i> Thêm danh mục
+        </a>
+    </div>
+    <br><br>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <% if(success != null){ %>
+                    <% success.forEach(element => { %>
+                    <div class="alert alert-success"><%= element %> </div>
+                    <%   }); %>
+                    <%  %>
+                    <% } %>
+                    <table class="table" data-toolbar="#toolbar" data-toggle="table">
+
+                        <thead>
+                            <tr>
+                                <th data-field="id" data-sortable="true" style="text-align: center">ID</th>
+                                <th data-field="name" data-sortable="true" style="text-align: center">Tên danh mục</th>
+                                <th style="text-align: center">Hành động</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                       
+                            <% cate.forEach(item => { %>
+                            <tr>
+                                <td style="text-align: center"><%=item._id %> </td>
+                                <td style="text-align: center"><%=item.cate_name  %> </td>
+                                <td class="form-group" style="text-align: center">
+                                    <a href="/category/edit/<%=item._id %> " class="btn btn-primary"><i
+                                            class="glyphicon glyphicon-pencil"></i></a>
+                                    <a href="/category/remove/<%=item._id %> " class="btn btn-danger"
+                                        onclick="return alert('Bạn có muốn xóa không!')"><i
+                                            class="glyphicon glyphicon-remove"></i></a>
+                                </td>
+                            </tr>
+                            <%}) %>
+                        
+                               
+                 
+
+
+                        </tbody>
+                    </table>
+                </div>
+                <!-- <div class="panel-footer">
+                    <nav aria-label="Page navigation example">
+                        <ul class="pagination">
+                            <li class="page-item"><a class="page-link" href="#">&laquo;</a></li>
+                            <li class="page-item"><a class="page-link" href="#">1</a></li>
+                            <li class="page-item"><a class="page-link" href="#">2</a></li>
+                            <li class="page-item"><a class="page-link" href="#">3</a></li>
+                            <li class="page-item"><a class="page-link" href="#">&raquo;</a></li>
+                        </ul>
+                    </nav>
+                </div> -->
+            </div>
+        </div>
+    </div>
+    <!--/.row-->
+</div>
+<!--/.main-->
+<%- include('../footer') %>

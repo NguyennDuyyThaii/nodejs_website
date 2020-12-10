@@ -1,0 +1,76 @@
+<%- include('../header') %>
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="row">
+        <ol class="breadcrumb">
+            <li><a href="#"><svg class="glyph stroked home">
+                        <use xlink:href="#stroked-home"></use>
+                    </svg></a></li>
+            <li><a href="">Quản lý bài viết</a></li>
+            <li class="active">Sửa bài viết <%= item.title %> </li>
+        </ol>
+    </div>
+    <!--/.row-->
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Sửa bài viết <%= item.title %></h1>
+        </div>
+    </div>
+    <!--/.row-->
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    <div class="col-md-6">
+                        <% if(errors != null){ %>
+                        <% errors.forEach(element => { %>
+                        <div class="alert alert-danger"><%= element %> </div>
+                        <%   }); %>
+                        <%  %>
+                        <% } %>
+                        <form method="post" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label>Tên bài viết:</label>
+                                <input type="text" name="title" value="<%= item.title %>" class="form-control" placeholder="Tên bài viết...">
+                            </div>
+                            <div class="form-group">
+                                <label>Ảnh</label>
+                                <input type="file" onchange="loadFile(event)" name="avatar">
+                                <br>
+                                <img id="output" height="200" width="200" src="./../../<%- item.avatar %>" />
+                                <script>
+                                  
+                                    var loadFile = function (event) {
+                                        var output = document.getElementById('output');
+                                        output.src = URL.createObjectURL(event.target.files[0]);
+                                        output.onload = function () {
+                                            URL.revokeObjectURL(output.src) // free memory
+                                        }
+                                    };
+                                </script>
+                            </div>
+                            <div class="form-group">
+                                <label>Mô tả ngắn:</label>
+                               <textarea name="short_detail"  id="" cols="30" rows="10" placeholder="Mô tả ngắn bài viết..."><%- item.short_detail %> </textarea>
+                            </div>
+                            <div class="form-group">
+                                <label>Nội dung bài viết:</label>
+                                <textarea name="detail" id="" cols="30" rows="10" placeholder="Nội dung bài viết..."><%- item.detail %> </textarea>
+                            </div>
+                            <script>
+                            CKEDITOR.replace( 'short_detail' )
+                            CKEDITOR.replace( 'detail' )
+                            </script>
+                            <button name="sbm" type="submit" class="btn btn-success">Thêm mới</button>
+                            <button type="reset" class="btn btn-default">Làm mới</button>
+                        </form>
+                    </div>
+                    </form>
+                </div>
+            </div>
+        </div><!-- /.col-->
+    </div><!-- /.row -->
+
+</div>
+<!--/.main-->
+<%- include('../footer') %>

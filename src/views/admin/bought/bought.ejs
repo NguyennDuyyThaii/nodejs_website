@@ -1,0 +1,162 @@
+<%- include('../header') %>
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="row">
+        <ol class="breadcrumb">
+            <li><a href="#"><svg class="glyph stroked home">
+                        <use xlink:href="#stroked-home"></use>
+                    </svg></a></li>
+            <li class="active">Quản lý hóa đơn</li>
+        </ol>
+    </div>
+    <!--/.row-->
+
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Quản lý hóa đơn</h1>
+        </div>
+    </div>
+    <!--/.row-->
+    <div id="toolbar" class="btn-group">
+        <a href="/boughtCheck" class="btn btn-success">
+            <i class="glyphicon glyphicon-plus"></i> Cập nhập trạng thái sản phẩm
+        </a>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-md-6 col-lg-3">
+            <div class="panel panel-blue panel-widget ">
+                <div class="row no-padding">
+                    <div class="col-sm-3 col-lg-5 widget-left">
+                        <svg class="glyph stroked bag">
+                            <use xlink:href="#stroked-bag"></use>
+                        </svg>
+                    </div>
+                    <div class="col-sm-9 col-lg-7 widget-right">
+                        <div class="large"><%= trans %> </div>
+                        <div class="text-muted">Đang chuyển hàng</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6 col-lg-3">
+            <div class="panel panel-orange panel-widget ">
+                <div class="row no-padding">
+                    <div class="col-sm-3 col-lg-5 widget-left">
+                        <svg class="glyph stroked bag">
+                            <use xlink:href="#stroked-bag"></use>
+                        </svg>
+                    </div>
+                    <div class="col-sm-9 col-lg-7 widget-right">
+                        <div class="large"><%= transSuccess %> </div>
+                        <div class="text-muted">Đã hoàn thành</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-12 col-md-6 col-lg-3">
+            <div class="panel panel-red panel-widget ">
+                <div class="row no-padding">
+                    <div class="col-sm-3 col-lg-5 widget-left">
+                        <svg class="glyph stroked bag">
+                            <use xlink:href="#stroked-bag"></use>
+                        </svg>
+                    </div>
+                    <div class="col-sm-9 col-lg-7 widget-right">
+                        <div class="large"><%= transErrors %> </div>
+                        <div class="text-muted">Hủy đơn</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                        <% if(success != null){ %>
+                            <% success.forEach(element => { %>
+                            <div class="alert alert-success"><%= element %> </div>
+                            <%   }); %>
+                            <%  %>
+                            <% } %>
+                    <table data-toolbar="#toolbar" data-toggle="table">
+
+                        <thead>
+                            <tr>
+                                <th data-field="id" data-sortable="true">Mã hóa đơn</th>
+                                <th>Tên khách hàng</th>
+                                <th>Email</th>
+                                <th>Phone</th>
+                                <th>Điạ chỉ</th>
+                                <th>Ngày bán</th>
+                                <th>Tổng tiền</th>
+                                <th>Trạng thái</th>
+                                <th>Hóa đơn chi tiết</th>
+                                <th>Hành động</th>
+                                <th>Cập nhập trạng thái</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <% invoices.forEach(item => { %>
+                            <tr>
+                                <td><%= item._id %> </td>
+                                <td><%= item.name_user %> </td>
+                                <td><%= item.email %> </td>
+                                <td><%= item.phone %> </td>
+                                <td><%= item.address %> </td>
+                                <td><%= new Date(item.date_of_sale).toString() %> </td>
+                                <td><%= item.total_price.toLocaleString() %> </td>
+                                <td>
+                                    <% if(item.status == "Đã hoàn thành") {%>
+                                    <button name="sbm" class="btn btn-warning"><%= item.status %> </button>
+                                    <% }else if(item.status == "Đang chuyển hàng"){%>
+                                    <button name="sbm" class="btn btn-primary"><%= item.status %> </button>
+                                    <% }else if(item.status == "Hủy đơn"){ %>
+                                    <button name="sbm" class="btn btn-danger"><%= item.status %> </button>
+                                    <%}else{%>
+
+                                    <%} %>
+                                </td>
+                                <td>
+                                    <button name="sbm" class="btn btn-success"> <a
+                                            href="/bought/bought_detail/<%= item._id %> " class=" btn btn-primary">Chi
+                                            tiết</a></button>
+                                </td>
+
+                                <td class="form-group">
+                                    <a href="/bought/edit/<%=item._id  %> " class="btn btn-primary"><i
+                                            class="glyphicon glyphicon-pencil"></i></a>
+                                    <a href="/bought/remove/<%=item._id %> " class="btn btn-danger"
+                                        onclick="return alert('Bạn có muốn xóa không!')"><i
+                                            class="glyphicon glyphicon-remove"></i></a>
+                                </td>
+                                <td>
+                                    <button name="sbm" class="btn btn-success"> <a
+                                            href="/boughtCheck/<%= item._id %>" class=" btn btn-primary">Cập nhập</a></button>
+                                </td>
+                            </tr>
+                            <%}) %>
+
+
+                        </tbody>
+                    </table>
+                </div>
+                <div id="pagination">
+                    <ul class="pagination">
+                        <li class="page-item"><a class="page-link" href="/bought/?page=<%=pagePrev%>">Trang trước</a>
+                        </li>
+                        <% for(i=1; i<=totalPage; i++){ %>
+
+                        <li class="page-item "><a class="page-link" href="/bought/?page=<%=i%>"><%=i%></a></li>
+
+                        <%}%>
+                        <li class="page-item"><a class="page-link" href="/bought/?page=<%=pageNext%>">Trang sau</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--/.row-->
+</div>
+
+<%- include('../footer') %>

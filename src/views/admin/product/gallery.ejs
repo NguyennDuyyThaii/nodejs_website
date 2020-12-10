@@ -1,0 +1,99 @@
+<%- include("../header") %>
+<div class="col-sm-9 col-sm-offset-3 col-lg-10 col-lg-offset-2 main">
+    <div class="row">
+        <ol class="breadcrumb">
+            <li><a href="#"><svg class="glyph stroked home">
+                        <use xlink:href="#stroked-home"></use>
+                    </svg></a></li>
+            <li><a href="">Quản lý gallery sản phẩm</a></li>
+        </ol>
+    </div>
+    <!--/.row-->
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="page-header">Thêm Gallery ảnh sản phẩm <%= product.name %> </h1>
+        </div>
+    </div>
+    <!--/.row-->
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                        <% if(success != null){ %>
+                            <% success.forEach(element => { %>
+                            <div class="alert alert-success"><%= element %> </div>
+                            <%   }); %>
+                            <%  %>
+                            <% } %>
+
+                    <form method="post" enctype="multipart/form-data">
+                        <div class="col-md-6">
+
+                            <div class="form-group">
+                                <label>Album ảnh sản phẩm</label>
+                                <input type="file" name="images" multiple id="input-many-files"
+                                    class="form-control-file border">
+                                <br>
+                            </div>
+                            <div class="row">
+                                <div class="col-sm-12">
+                                    <div class="preview-images" style="height: fit-content; width: fit-content;"></div>
+                                </div>
+                            </div>
+                            <br>
+                            <script>
+
+                                $(document).ready(function () {
+                                    // Multiple images preview in browser - trungquandev.com
+                                    let imagesPreview = function (input, placeToInsertImagePreview) {
+                                        if (input.files) {
+                                            let filesAmount = input.files.length;
+                                            for (i = 0; i < filesAmount; i++) {
+                                                let reader = new FileReader();
+                                                reader.onload = function (event) {
+                                                    $($.parseHTML("<img width='100' height='100'>")).attr("src", event.target.result).appendTo(placeToInsertImagePreview);
+                                                }
+                                                reader.readAsDataURL(input.files[i]);
+                                            }
+                                        }
+                                    };
+
+                                    $("#input-many-files").on("change", function () {
+                                        imagesPreview(this, "div.preview-images");
+                                    });
+                                });
+                            </script>
+                            <button name="sbm" type="submit" class="btn btn-success">Thêm mới</button>
+                       
+                        </div>
+                    </form>
+                   
+                    <table data-toolbar="#toolbar" data-toggle="table" class="table" style="margin-top: 2rem">
+
+                            <thead>
+                                <tr>
+                                    <th data-field="id" data-sortable="true" style="text-align: center">Ảnh</th>
+                                 
+                                  
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <% product.images.forEach(i => { %>
+                                <tr>
+                                    <td style="text-align: center"><img src="./../../<%= i %> " width="150" height="100" alt=""></td>
+                                    <td class="form-group">
+                                    </td>
+                                  
+                                </tr>
+                                <% }) %>
+    
+                            </tbody>
+                        </table>
+
+                </div>
+            </div><!-- /.col-->
+        </div><!-- /.row -->
+
+    </div>
+    <!--/.main-->
+    <%- include("../footer") %>

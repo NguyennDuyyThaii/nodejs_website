@@ -1,0 +1,118 @@
+<%- include('./header') %>
+<!--	End Slider	-->
+<!--	Feature Product	-->
+<!--	End Feature Product	-->
+<!--	Latest Product	-->
+<div id="product">
+    <div id="product-head" class="row">
+        <div id="product-img" class="col-lg-6 col-md-6 col-sm-12">
+            <img src="./../<%= item.avatar %> ">
+        </div>
+        <div id="product-details" class="col-lg-6 col-md-6 col-sm-12">
+            <h1 style="color: #2980b9"><%= item.name %> </h1>
+            <ul>
+
+                <li><span>Khuyến Mại: </span><b style="color: red; font-size: 25px"> <%= item.sale_price.toLocaleString() %> đ</b></li>
+                <br>
+                <li id="price">Giá Bán (chưa bao gồm VAT)</li>
+                <li id="price-number" style="text-decoration: line-through; color: black"><span>Giá cũ:
+                    </span><%= item.price.toLocaleString() %> đ</li>
+
+            </ul>
+            <div id="add-cart"><a href="/addToCart/<%= item._id %>">Mua ngay</a></div>
+        </div>
+    </div>
+    <div id="product-body" class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <%- item.detail %>
+        </div>
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <h3>Album ảnh khác của sản phẩm</h3>
+            <div id="product-img" class="col-lg-12 col-md-12 col-sm-12">
+                <% item.images.forEach(item => { %>
+                    <img src="./../<%= item %> " height="150" width="50">
+                <%}) %> 
+          
+            
+            </div>
+
+        </div>
+
+    </div>
+
+    <!--	Comment	-->
+
+    <div id="comment" class="row">
+     
+        
+        <div class="col-lg-12 col-md-12 col-sm-12">
+                <% if(errors != null){ %>
+                    <% errors.forEach(element => { %>
+                    <div class="alert alert-danger"><%= element %> </div>
+                    <%   }); %>
+                    <%  %>
+                    <% } %>
+                    <% if(success != null){ %>
+                    <% success.forEach(element => { %>
+                    <div class="alert alert-success"><%= element %> </div>
+                    <%   }); %>
+                    <%  %>
+                    <% } %>
+            <h3>Bình luận sản phẩm</h3>
+            <form method="post">
+                <div class="form-group">
+                    <label>Tên:</label>
+                    <input name="name" type="text" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label>Email:</label>
+                    <input name="email" type="email" class="form-control" id="pwd">
+                </div>
+                <div class="form-group">
+                    <label>Nội dung:</label>
+                    <textarea name="content" rows="8" class="form-control"></textarea>
+                </div>
+                <button type="submit" name="sbm" class="btn btn-primary">Gửi</button>
+            </form>
+        </div>
+    </div>
+    <!--	End Comment	-->
+
+    <!--	Comments List	-->
+    <div id="comments-list" class="row">
+        <div class="col-lg-12 col-md-12 col-sm-12">
+            <% comment.forEach(item => { %>
+                <div class="comment-item">
+                        <ul>
+                            <li><b><%= item.name %> </b></li>
+                            <li><%= new Date(item.createdAt).toString() %> </li>
+                            <li><%= item.email %> </li>
+                            <li>
+                                <p><b style="font-size: 18px"><%= item.content %> </b></p>
+                            </li>
+                        </ul>
+                    </div>
+            <% }) %> 
+         
+        </div>
+    </div>
+    <!--	End Comments List	-->
+</div>
+<!--	End Product	-->
+<!-- <div id="pagination">
+    <ul class="pagination">
+        <li class="page-item"><a class="page-link" href="#">Trang trước</a></li>
+        <li class="page-item active"><a class="page-link" href="#">1</a></li>
+        <li class="page-item"><a class="page-link" href="#">2</a></li>
+        <li class="page-item"><a class="page-link" href="#">3</a></li>
+        <li class="page-item"><a class="page-link" href="#">Trang sau</a></li>
+    </ul>
+</div> -->
+<!--	End Latest Product	-->
+</div>
+<%- include('./sidebar') %>
+</div>
+</div>
+</div>
+<!--	End Body	-->
+<%- include("./footer") %>

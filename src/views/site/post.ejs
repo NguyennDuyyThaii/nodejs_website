@@ -1,0 +1,46 @@
+<%- include('./header') %>
+<!--	End Slider	-->
+<!--	Feature Product	-->
+<!--	End Feature Product	-->
+<!--	Latest Product	-->
+<div class="products">
+    <h3 style="color: #2980b9">HƯỚNG DẪN, THỦ THUẬT MỚI NHẤT</h3>
+    <% post.forEach(item => { %>
+    <div class="product-list card-deck" style="margin: 1rem auto">
+        <div class="media">
+            <a href="/post/detail/<%= item._id %> "><img
+                    src="<%= item.avatar %> " width="180" height="100"
+                    class="align-self-start mr-3" alt="..."></a>
+            <div class="media-body">
+                <a href="/post/detail/<%= item._id %> ">
+                    <h5 class="mt-0"><%= item.title %> </h5>
+                </a>
+                <p><%- item.short_detail %></p>
+            </div>
+        </div>
+    </div>
+    <% }) %>
+
+    <div id="pagination">
+        <ul class="pagination">
+            <li class="page-item"><a class="page-link" href="/posts?page=<%=pagePrev%>">Trang trước</a></li>
+            <%
+                for(i=1; i<=totalPage; i++){
+                %>
+            <li class="page-item"><a class="page-link" href="/posts?page=<%=i%>"><%=i%></a></li>
+            <%
+                }
+                %>
+            <li class="page-item"><a class="page-link" href="/posts?page=<%=pageNext%>">Trang sau</a></li>
+        </ul>
+    </div>
+
+</div>
+<!--	End Latest Product	-->
+</div>
+<%- include('./sidebar') %>
+</div>
+</div>
+</div>
+<!--	End Body	-->
+<%- include("./footer") %>

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <title><%= title %> </title>
+    <!-- <link rel="stylesheet" href="css/bootstrap.css"> -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="stylesheet" href="./../../site/css/home.css">
+    <link rel="stylesheet" href="./../../site/css/cart.css">
+    <link rel="stylesheet" href="./../../site/css/category.css">
+    <link rel="stylesheet" href="./../../site/css/product.css">
+    <link rel="stylesheet" href="./../../site/css/success.css">
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+        integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+        crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+        integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+        crossorigin="anonymous"></script>
+    <script src="./../../site/den.js"></script>
+</head>
+
+<body>
+
+    <script type="text/javascript">
+        var bgBegin = 22;
+        var bgEnd = 31;
+        var bgTetId = 31;
+        var bgTetUrl = '/banner/';
+        document.body.style.backgroundImage = 'url(' + bgTetUrl + bgTetId + '.jpg)';
+        document.body.style.backgroundAttachment = 'fixed';
+        document.body.style.backgroundSize = 'cover';
+        setInterval(function () {
+            if (bgTetId == bgEnd) bgTetId = bgBegin;
+            document.body.style.backgroundImage = 'url(' + bgTetUrl + bgTetId + '.jpg)';
+            document.body.style.backgroundAttachment = 'fixed';
+            document.body.style.backgroundSize = 'cover';
+            bgTetId++;
+        }, 15000);
+    </script>
+    <!--	Header	-->
+    <div id="header">
+        <div class="container">
+            <div class="row">
+                <div id="logo" class="col-lg-3 col-md-3 col-sm-12">
+                    <h1><a href="/"><img class="img" src="./../../site/images/thaiLu.jpg" height="70"></a>
+                    </h1>
+                </div>
+                <div id="search" class="col-lg-6 col-md-6 col-sm-12">
+                    <form class="form-inline" method="get" action="/search">
+                        <input class="form-control mt-3" type="search" name="keyword" placeholder="Tìm kiếm"
+                            aria-label="Search">
+                        <button class="btn btn-danger mt-3" type="submit">Tìm Kiếm</button></a>
+                    </form>
+                </div>
+                <div id="cart" class="col-lg-3 col-md-3 col-sm-12">
+                    <a class="mt-4 mr-2" href="/cart"><img src="./../../site/images/sales.png" height="35" width="35"
+                            alt=""></a><span class="mt-3">
+                        <% if(cart){ %>
+                        <%= cart.length %>
+                        <% }else{ %>
+                        0
+                        <% } %>
+                    </span>
+                 
+
+                </div>
+
+            </div>
+        </div>
+        <!-- Toggler/collapsibe Button -->
+        <button class="navbar-toggler navbar-light" type="button" data-toggle="collapse" data-target="#menu">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+    <!--	End Header	-->
+
+    <!--	Body	-->
+    <div id="body">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <nav>
+                        <div id="menu" class="collapse navbar-collapse">
+                            <ul>
+                                <% cate.forEach(item => { %>
+                                <li class="menu-item"><a
+                                        href="/categories/?category=<%= item._id %>"><%= item.cate_name %> </a></li>
+                                <%}) %>
+                                <li class="menu-item"><a href="/posts">Tin tức</a></li>
+                                <li class="menu-item"><a href="/getContact">Liên hệ</a></li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <div class="row">
+                <div id="main" class="col-lg-8 col-md-12 col-sm-12">
+                    <!--	Slider	-->
+                    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                        <ol class="carousel-indicators">
+                            <% for(var i=0; i< slide.length; i++){ %>
+                            <li data-target="#carouselExampleIndicators" data-slide-to="<%= i %> " class="active"></li>
+                            <%} %>
+                        </ol>
+                        <div class="carousel-inner">
+                            <% slide.forEach(item => { %>
+                            <% if(item._id == "5fbb95fe139cfc179b00af35") {%>
+                            <div class="carousel-item active">
+                                <img src="./../../<%= item.avatar %> " class="d-block w-100" alt="...">
+                            </div>
+                            <% }else{ %>
+                            <div class="carousel-item">
+                                <img src="./../../<%= item.avatar %> " class="d-block w-100" alt="...">
+                            </div>
+                            <%} %>
+                            <%}) %>
+
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button"
+                            data-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button"
+                            data-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                    </div>

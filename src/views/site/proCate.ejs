@@ -1,0 +1,40 @@
+<%- include('./header') %>
+<!--	End Slider	-->
+<!--	Feature Product	-->
+<!--	End Feature Product	-->
+<!--	Latest Product	-->
+<div class="products">
+        <h3 style="color: #2980b9">Các sản phẩm </h3>
+        <div class="row">
+                <% product.forEach(item=> { %>
+                <div class="col-sm-4 text-center mb-3">
+                    <div class="card">
+                        <a href="" class="d-block"><img src="./../<%= item.avatar %> " style="width: 150px; height: 200px"
+                                class="card-img-top"></a>
+                        <div class="card-body">
+                            <h4><a href=""><%= item.name %> </a></h4>
+                            <p>Giá Bán: <span style="text-decoration: line-through"><%= item.price.toLocaleString() %> vnđ</span></p>
+                            <p>Giá Mới: <span style="color: red"><%= item.sale_price.toLocaleString() %>  vnđ</span></p>
+                            <!-- <div class="star">
+                                @for ($i = 0; $i < $p->star; $i++)
+                                    <img src="{{BASE_URL .'public/site/images/star (1).png'}}" alt=""
+                                        style="width: 15px; height: 15px">
+                                    @endfor</td>
+                            </div> -->
+                            <a class="btn btn-primary btn-block mt-3" href="/addToCart/<%= item._id %>">Mua</a>
+                        </div>
+                    </div>
+                </div>
+                <%  }) %>
+        
+            </div>
+
+    </div>
+<!--	End Latest Product	-->
+</div>
+<%- include('./sidebar') %>
+</div>
+</div>
+</div>
+<!--	End Body	-->
+<%- include("./footer") %>
