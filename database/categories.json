@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5fba7f9a929bca31032a8ade"
+  },
+  "deleted_at": null,
+  "cate_name": "Iphone",
+  "created_at": 1606057882934,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fba7fa1929bca31032a8adf"
+  },
+  "deleted_at": null,
+  "cate_name": "Samsung",
+  "created_at": 1606057889006,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fba7fa8929bca31032a8ae0"
+  },
+  "deleted_at": null,
+  "cate_name": "Vsmart",
+  "created_at": 1606057896969,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fba7fad929bca31032a8ae1"
+  },
+  "deleted_at": null,
+  "cate_name": "Nokia",
+  "created_at": 1606057901418,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fba7fb2929bca31032a8ae2"
+  },
+  "deleted_at": null,
+  "cate_name": "Oppo",
+  "created_at": 1606057906557,
+  "__v": 0
+}]

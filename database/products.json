@@ -1,0 +1,415 @@
+[{
+  "_id": {
+    "$oid": "5fbe8c2ed9383e1914506265"
+  },
+  "avatar": [
+    "images/product/avatar/1607417113050-7d8572a3-ee8d-4d44-a014-b119318ebf05-product-1.png"
+  ],
+  "updatedAt": null,
+  "name": "iPhone 11 64GB  ",
+  "price": 21999999,
+  "sale_price": 20000000,
+  "cate_id": {
+    "$oid": "5fba7f9a929bca31032a8ade"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về iPhone X 64GB</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606323246732,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606905640019-6e05e0fd-4310-442c-a562-505d7976ff48-oppo-a7-600x600-1-600x600.jpg",
+    "images/product/imagess/1606905640021-0eca4be2-31b1-4e61-8069-c882c23f782e-oppo-a9-600x600-trang-600x600.jpg",
+    "images/product/imagess/1606905640022-22686b45-f1cb-49f2-a034-2144e4f7c76c-oppo-a31-2020-128gb-den-600x600-1-600x600.jpg"
+  ],
+  "qtySeller": 3
+},{
+  "_id": {
+    "$oid": "5fbe8d2cd9383e1914506266"
+  },
+  "avatar": [
+    "images/product/avatar/1607417130212-3cec4884-34b9-45da-a4ab-2a533ed78b79-product-2.png"
+  ],
+  "updatedAt": null,
+  "name": "Nokia 61 Plus-2  ",
+  "price": 15000000,
+  "sale_price": 14000000,
+  "cate_id": {
+    "$oid": "5fba7fad929bca31032a8ae1"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về Nokia Plus-2</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606323500500,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606905653062-08822200-2d29-4859-9bee-150e3f760f1c-oppo-a31-2020-trang-600x600-1-600x600.jpg",
+    "images/product/imagess/1606905653063-68da9048-0703-454f-b91c-2446ee0989f1-oppo-a91-trang-600x600-600x600.jpg",
+    "images/product/imagess/1606905653064-70d399ba-6e56-462e-a009-ee3d60ce0079-oppo-f11-pro-128gb-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe8e5ad9383e1914506267"
+  },
+  "avatar": [
+    "images/product/avatar/1607417142447-439a5c26-50c8-4231-b7cf-3cb5fb1eec67-product-3.png"
+  ],
+  "updatedAt": null,
+  "name": "OPPO A5 (2020) 64GB ",
+  "price": 25000000,
+  "sale_price": 24000000,
+  "cate_id": {
+    "$oid": "5fba7fb2929bca31032a8ae2"
+  },
+  "detail": "<h3>OPPO A5 (2020) 64GB</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606323802050,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606905663069-2067de13-9ce2-40cf-8da8-7ff7c65e9c82-oppo-reno-10x-zoom-edition-green-600x600.jpg",
+    "images/product/imagess/1606905663071-10ff229b-7711-485a-b74d-445055b808c2-oppo-reno-pink-600x600.jpg",
+    "images/product/imagess/1606905663072-33443173-bcfd-4cfc-ac5a-9034d919a93d-oppo-reno2-f-xanh-600x600-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe8f07d9383e1914506268"
+  },
+  "avatar": [
+    "images/product/avatar/1607430814429-ab18523b-529c-486d-9253-3b986bf5669b-product-4.png"
+  ],
+  "updatedAt": null,
+  "name": "Vsmart Live (4GB/64GB) ",
+  "price": 5000000,
+  "sale_price": 4999000,
+  "cate_id": {
+    "$oid": "5fba7fa8929bca31032a8ae0"
+  },
+  "detail": "<h3>Vsmart Live (4GB/64GB)</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606323975509,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606905996231-410a7e52-cdc7-4bf7-ba41-127e73347034-nokia-61-plus-2-600x600.jpg",
+    "images/product/imagess/1606905996234-f6ad5f7b-53fe-4017-b777-f5105df522ec-nokia-72-black-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe90c9d9383e1914506269"
+  },
+  "avatar": [
+    "images/product/avatar/1607430858613-e67a3356-ac8c-471b-bd82-d0290c85b3ee-product-5.png"
+  ],
+  "updatedAt": null,
+  "name": "Vsmart Joy 2+ (2GB/32GB)B  ",
+  "price": 7900000,
+  "sale_price": 7000000,
+  "cate_id": {
+    "$oid": "5fba7fa8929bca31032a8ae0"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về Vsmart Joy 2+ (2GB/32GB)B</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606324425938,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906019102-e4d6e33d-4240-4e25-9c22-e72af5a427f6-product-7.png",
+    "images/product/imagess/1606906019104-6fecd8dd-d152-4282-8986-d488951fc3af-product-8.png",
+    "images/product/imagess/1606906019113-453be2f5-2102-449e-b6cd-787adef5a745-product-9.png"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe9213d9383e191450626a"
+  },
+  "avatar": [
+    "images/product/avatar/1607430845531-a8ee9f66-3f22-484f-9d4f-d36573c20f18-product-6.png"
+  ],
+  "updatedAt": null,
+  "name": "iPhone 11 Pro Max 256GB ",
+  "price": 15000000,
+  "sale_price": 14000000,
+  "cate_id": {
+    "$oid": "5fba7f9a929bca31032a8ade"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về iPhone 11 Pro Max 256GB</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606324755365,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906034580-79afbb7b-1448-44cc-8c3d-904a1cc7c120-samsung-galaxy-a51-white-600x600.jpg",
+    "images/product/imagess/1606906034581-1475582b-d7dd-4840-a8c5-c5439713d2cc-samsung-galaxy-fold-black-600x600.jpg",
+    "images/product/imagess/1606906034582-aeddeac2-45f6-4fc0-8055-e53e3cf34d73-samsung-galaxy-note-10-lite-black-thumb-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe92ebd9383e191450626b"
+  },
+  "avatar": [
+    "images/product/avatar/1607430869739-f9b714b8-2a68-4a52-a690-d4567bd8beaa-product-7.png"
+  ],
+  "updatedAt": null,
+  "name": "OPPO Reno ",
+  "price": 6900000,
+  "sale_price": 5000000,
+  "cate_id": {
+    "$oid": "5fba7f9a929bca31032a8ade"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về OPPO Reno</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606324971721,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906046266-aa1d096f-05fe-4b63-a4a3-76e36d109e3c-samsung-galaxy-note-10-plus-blue-600x600.jpg",
+    "images/product/imagess/1606906046271-55d3b148-c4ef-4bb1-8099-7dfe6ea9d473-samsung-galaxy-note-10-silver-600x600.jpg",
+    "images/product/imagess/1606906046272-18cfca7e-5dac-4c54-9aa4-1fdf6a9bab6b-samsung-galaxy-s20-plus-600x600-fix-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe931dd9383e191450626c"
+  },
+  "avatar": [
+    "images/product/avatar/1607430880690-0c0e1996-4b83-49b1-be5d-0965e63f931d-product-8.png"
+  ],
+  "updatedAt": null,
+  "name": "Nokia 72 Black ",
+  "price": 6900000,
+  "sale_price": 6000000,
+  "cate_id": {
+    "$oid": "5fba7fad929bca31032a8ae1"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về Nokia 72 Black</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606325021156,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906057891-902c090e-72d8-4da0-b240-884bfb7f600f-sieu-pham-galaxy-s-moi-2-512gb-black-600x600.jpg",
+    "images/product/imagess/1606906057892-62374f72-e87b-4ad4-b3a7-8a1f09dd242e-vsmart-joy-3-tim-600x600-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe9391d9383e191450626d"
+  },
+  "avatar": [
+    "images/product/avatar/1607430897732-58abe887-8478-4dac-a380-567235c05c26-product-9.png"
+  ],
+  "updatedAt": null,
+  "name": "Samsung Joy 3 (3GB/32GB) ",
+  "price": 7900000,
+  "sale_price": 6900000,
+  "cate_id": {
+    "$oid": "5fba7fa1929bca31032a8adf"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về Samsung Joy 3 (3GB/32GB)</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606325137394,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906078106-708646a0-405a-4ed7-9c47-e452ab4ff539-vsmart-active-3-6gb-600x600-1-600x600.jpg",
+    "images/product/imagess/1606906078106-1c6e922a-3510-477b-aac7-eda155bd9b3c-vsmart-bee-blue-600x600.jpg",
+    "images/product/imagess/1606906078107-e1f3f195-ac4e-461e-9bd6-c2b033b390cc-vsmart-joy-3-tim-600x600-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe94c3d9383e191450626e"
+  },
+  "avatar": [
+    "images/product/avatar/1607430908437-e32ca5b0-741a-4454-9e67-1128e8adc050-product-10.png"
+  ],
+  "updatedAt": null,
+  "name": "iPhone 0 Pro Max ",
+  "price": 8900000,
+  "sale_price": 8000000,
+  "cate_id": {
+    "$oid": "5fba7f9a929bca31032a8ade"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về iPhone 0 Pro Max</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606325443984,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906087190-cd557a90-02c6-4081-9f42-e9f14353a192-vsmart-live-6gb-white-600x600.jpg",
+    "images/product/imagess/1606906087190-b04d1422-e9e1-4865-951b-52ebf3297c01-vsmart-live-blue-600x600.jpg",
+    "images/product/imagess/1606906087194-15ba917e-3eca-4780-bb1c-384465f168c0-vsmart-star-3-xanh-600x600-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe9504d9383e191450626f"
+  },
+  "avatar": [
+    "images/product/avatar/1607430920336-5c65dbcf-253c-469d-aa1f-9cd8f1b4604b-product-11.png"
+  ],
+  "updatedAt": null,
+  "name": "OPPO Galaxy (2020) 64GB ",
+  "price": 9000000,
+  "sale_price": 7900000,
+  "cate_id": {
+    "$oid": "5fba7fb2929bca31032a8ae2"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về&nbsp;OPPO Galaxy (2020) 64GB</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606325508553,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906101132-495a093b-b4ac-4649-957c-3aab5df1052e-vsmart-live-blue-600x600.jpg",
+    "images/product/imagess/1606906101132-1a5c9713-9dd5-4853-8bce-f1085f9b868b-vsmart-star-3-xanh-600x600-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbe954ed9383e1914506270"
+  },
+  "avatar": [
+    "images/product/avatar/1607430932879-ac8a6401-78d1-4054-8dc5-8f8527443e19-product-12.png"
+  ],
+  "updatedAt": null,
+  "name": "Vsmart Live (4GB/64GB) ",
+  "price": 6900000,
+  "sale_price": 6000000,
+  "cate_id": {
+    "$oid": "5fba7fa8929bca31032a8ae0"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về Vsmart Live (4GB/64GB)</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<p>&nbsp;</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606325582273,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906152697-c32ea4e7-a03e-44bf-b54b-533a039a104c-product-10.png",
+    "images/product/imagess/1606906152699-d7dd0c7f-a473-4062-8c1b-6bd0e3296f55-product-11.png"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbefbf39ffa56030f017241"
+  },
+  "avatar": [
+    "images/product/avatar/1607430974960-f0c07df7-2139-4b83-8d6a-b5784eb8d9c0-nokia-72-black-600x600.jpg"
+  ],
+  "updatedAt": null,
+  "name": "Nokia 72 Black ",
+  "price": 3900000,
+  "sale_price": 3000000,
+  "cate_id": {
+    "$oid": "5fba7fad929bca31032a8ae1"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về&nbsp;Nokia 72 Black</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n",
+  "createdAt": 1606351859077,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906235993-4323c343-d82e-4b38-a063-c87283342bd3-oppo-a9-600x600-trang-600x600.jpg",
+    "images/product/imagess/1606906235994-378a415d-b914-474e-ac80-81c98f2bfb41-oppo-a31-2020-128gb-den-600x600-1-600x600.jpg",
+    "images/product/imagess/1606906235995-923656ff-70cf-4c42-ad5c-57857690d797-oppo-a31-2020-trang-600x600-1-600x600.jpg"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbefc629ffa56030f017242"
+  },
+  "avatar": [
+    "images/product/avatar/1607430994109-b5dbd489-2630-4232-ace0-3367bd6c20de-oppo-reno2-f-xanh-600x600-600x600.jpg"
+  ],
+  "updatedAt": null,
+  "name": "OPPO Reno-2 ",
+  "price": 5900000,
+  "sale_price": 5000000,
+  "cate_id": {
+    "$oid": "5fba7fb2929bca31032a8ae2"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về&nbsp;OPPO Reno-2</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606351970656,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906309419-d7e0efcc-85cd-4c87-a5de-0453cc79120f-product-4.png",
+    "images/product/imagess/1606906309421-07e9227c-4fc8-4bb8-83c6-0ccd1ce49a64-product-5.png",
+    "images/product/imagess/1606906309422-f6e23c61-8948-4579-8ed5-5d1d57615370-product-6.png"
+  ],
+  "qtySeller": 4
+},{
+  "_id": {
+    "$oid": "5fbefc9a9ffa56030f017243"
+  },
+  "avatar": [
+    "images/product/avatar/1607431007012-4510fd85-ee9f-4a22-b857-e452959b90ad-oppo-reno-10x-zoom-edition-green-600x600.jpg"
+  ],
+  "updatedAt": null,
+  "name": "OPPO Reno-10x ",
+  "price": 9900000,
+  "sale_price": 9000000,
+  "cate_id": {
+    "$oid": "5fba7fb2929bca31032a8ae2"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về OPPO Reno-10x</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n",
+  "createdAt": 1606352026978,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906322614-742a157a-11cd-42f5-ac1e-aed64baf6e13-product-8.png",
+    "images/product/imagess/1606906322615-9a832030-a30a-4c0e-a4ee-9af85a6c3283-product-9.png",
+    "images/product/imagess/1606906322617-656db7d7-0fb2-4e84-aad0-03e360dee8df-product-10.png",
+    "images/product/imagess/1606906322619-3d108fd5-0aca-4e3a-9bec-da4da23b6d26-product-11.png",
+    "images/product/imagess/1606906322621-b1c0715e-b9ac-4bf2-92f0-92b92e0f122a-product-12.png"
+  ],
+  "qtySeller": 0
+},{
+  "_id": {
+    "$oid": "5fbefcea9ffa56030f017244"
+  },
+  "avatar": [
+    "images/product/avatar/1607431029870-dc778764-dd3f-46fa-8b83-0af31ce8548f-samsung-galaxy-note-10-plus-blue-600x600.jpg"
+  ],
+  "updatedAt": null,
+  "name": "Samsung Galaxy Note 10 ",
+  "price": 10000000,
+  "sale_price": 9000000,
+  "cate_id": {
+    "$oid": "5fba7fa1929bca31032a8adf"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về&nbsp;Samsung Galaxy Note 10</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n",
+  "createdAt": 1606352106916,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906288480-31927e70-3e90-43b1-b80d-6780e182d1d3-oppo-a7-600x600-1-600x600.jpg",
+    "images/product/imagess/1606906288481-dc08b12c-f648-4996-9f5a-70e00a30471b-oppo-a9-600x600-trang-600x600.jpg",
+    "images/product/imagess/1606906288482-729f5e5d-bdd2-4588-bc8d-8ecee9bcfdf8-oppo-a31-2020-128gb-den-600x600-1-600x600.jpg",
+    "images/product/imagess/1606906288482-6fbc48ef-0a5d-4afd-af0e-8348f9bc01c5-oppo-a31-2020-trang-600x600-1-600x600.jpg",
+    "images/product/imagess/1606906288483-52ed8bc4-52d8-497a-b43c-6cf3a5f518b3-oppo-a91-trang-600x600-600x600.jpg"
+  ],
+  "qtySeller": 6
+},{
+  "_id": {
+    "$oid": "5fbefd1f9ffa56030f017245"
+  },
+  "avatar": [
+    "images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg"
+  ],
+  "updatedAt": null,
+  "name": "Samsung Galaxy Fold Black ",
+  "price": 8900000,
+  "sale_price": 8000000,
+  "cate_id": {
+    "$oid": "5fba7fa1929bca31032a8adf"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về&nbsp;Samsung Galaxy Fold Black</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606352159330,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906275301-d13d9232-cb23-41d3-913e-8769c68cb737-oppo-a91-trang-600x600-600x600.jpg",
+    "images/product/imagess/1606906275301-d89700ab-391e-4161-bb9d-c0285ed0517f-oppo-f11-pro-128gb-600x600.jpg",
+    "images/product/imagess/1606906275302-02e92497-ee3a-4943-a79b-51df3f9ab1ff-oppo-reno-2-pink-600x600.jpg"
+  ],
+  "qtySeller": 6
+},{
+  "_id": {
+    "$oid": "5fbefd599ffa56030f017246"
+  },
+  "avatar": [
+    "images/product/avatar/1607430951240-4831031e-aeaa-4056-ad27-0ea58d396948-vsmart-star-3-xanh-600x600-600x600.jpg"
+  ],
+  "updatedAt": null,
+  "name": "Vsmart Star 3 ",
+  "price": 8900000,
+  "sale_price": 7000000,
+  "cate_id": {
+    "$oid": "5fba7fa8929bca31032a8ae0"
+  },
+  "detail": "<h3>Đ&aacute;nh gi&aacute; về&nbsp;Vsmart Star 3</h3>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED c&oacute; hỗ trợ HDR l&agrave; một sự n&acirc;ng cấp mới của Apple thay v&igrave; m&agrave;n h&igrave;nh LCD với IPS được t&igrave;m thấy tr&ecirc;n iPhone 8 v&agrave; iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đ&aacute;ng kể l&agrave; 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) v&agrave; 1.400: 1 ( iPhone 8 ).</p>\r\n\r\n<p>M&agrave;n h&igrave;nh OLED m&agrave; Apple đang gọi m&agrave;n h&igrave;nh Super Retina HD c&oacute; thể hiển thị t&ocirc;ng m&agrave;u đen s&acirc;u hơn. Điều n&agrave;y được thực hiện bằng c&aacute;ch tắt c&aacute;c điểm ảnh được hiển thị m&agrave;u đen c&ograve;n m&agrave;n h&igrave;nh LCD th&ocirc;ng thường, những điểm ảnh đ&oacute; được giữ lại. Kh&ocirc;ng những thế, m&agrave;n h&igrave;nh OLED c&oacute; thể tiết kiệm pin đ&aacute;ng kể.</p>\r\n\r\n<p>Cả ba mẫu iPhone mới đều c&oacute; camera sau 12MP v&agrave; 7MP cho camera trước, nhưng chỉ iPhone X v&agrave; iPhone 8 Plus c&oacute; th&ecirc;m một cảm biến cho camera sau. Camera k&eacute;p tr&ecirc;n m&aacute;y như thường lệ: một g&oacute;c rộng v&agrave; một tele. Vậy Apple đ&atilde; t&iacute;ch hợp những g&igrave; v&agrave;o camera của iPhone X?</p>\r\n\r\n<p>Chống rung quang học (OIS) l&agrave; một trong những t&iacute;nh năng được nhiều h&atilde;ng điện thoại tr&ecirc;n thế giới &aacute;p dụng. Đối với iPhone X, h&atilde;ng t&iacute;ch hợp chống rung n&agrave;y cho cả hai camera, kh&ocirc;ng như IPhone 8 Plus chỉ c&oacute; OIS tr&ecirc;n camera g&oacute;c rộng n&ecirc;n camera tele vẫn rung v&agrave; chất lượng bức h&igrave;nh kh&ocirc;ng đảm bảo.</p>\r\n\r\n<p>Thứ hai, ống k&iacute;nh tele của iPhone 8 Plus c&oacute; khẩu độ f / 2.8, trong khi iPhone X c&oacute; ống k&iacute;nh tele f / 2.2, tạo ra một đường cong nhẹ v&agrave; c&oacute; thể chụp thiếu s&aacute;ng tốt hơn với ống k&iacute;nh tele tr&ecirc;n iPhone X.</p>\r\n\r\n<p>Portrait Mode l&agrave; t&iacute;nh năng chụp ảnh x&oacute;a ph&ocirc;ng trước đ&acirc;y chỉ c&oacute; với camera sau của iPhone 7 Plus, hiện được t&iacute;ch hợp tr&ecirc;n cả iPhone 8 Plus v&agrave; iPhone X. Tuy nhi&ecirc;n, nhờ sức mạnh của cảm biến tr&ecirc;n mặt trước của iPhone X, Camera TrueDepth cũng c&oacute; thể chụp với Potrait mode.</p>\r\n\r\n<div class=\"eJOY__extension_root_class\" id=\"eJOY__extension_root\" style=\"all: unset;\">&nbsp;</div>\r\n",
+  "createdAt": 1606352217658,
+  "__v": 0,
+  "images": [
+    "images/product/imagess/1606906264230-b48ece35-d64b-4214-a039-5a3b2aab11a2-oppo-reno-10x-zoom-edition-green-600x600.jpg",
+    "images/product/imagess/1606906264230-4b65d19d-6ca0-43cd-8d8f-afc3994b5910-oppo-reno-pink-600x600.jpg",
+    "images/product/imagess/1606906264232-7486402e-82af-43c0-a91a-caa93098d27f-oppo-reno2-f-xanh-600x600-600x600.jpg"
+  ],
+  "qtySeller": 3
+}]

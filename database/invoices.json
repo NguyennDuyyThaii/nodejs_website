@@ -1,0 +1,349 @@
+[{
+  "_id": {
+    "$oid": "5fcf7c505288e309d47f0a7d"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi",
+  "status": "Đã hoàn thành",
+  "name_user": "Nguyen Duy Thai",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "33,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefd1f9ffa56030f017245",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg"
+      ],
+      "sale_price": 8000000,
+      "name": "Samsung Galaxy Fold Black "
+    },
+    {
+      "_id": "5fbefd599ffa56030f017246",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430951240-4831031e-aeaa-4056-ad27-0ea58d396948-vsmart-star-3-xanh-600x600-600x600.jpg"
+      ],
+      "sale_price": 7000000,
+      "name": "Vsmart Star 3 "
+    },
+    {
+      "_id": "5fbefcea9ffa56030f017244",
+      "qty": 2,
+      "avatar": [
+        "images/product/avatar/1607431029870-dc778764-dd3f-46fa-8b83-0af31ce8548f-samsung-galaxy-note-10-plus-blue-600x600.jpg"
+      ],
+      "sale_price": 9000000,
+      "name": "Samsung Galaxy Note 10 "
+    }
+  ],
+  "date_of_sale": 1607433296903,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcf7e15deecef0addaea500"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi",
+  "status": "Đã hoàn thành",
+  "name_user": "Hoang Anh Vien",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "17,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefc9a9ffa56030f017243",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607431007012-4510fd85-ee9f-4a22-b857-e452959b90ad-oppo-reno-10x-zoom-edition-green-600x600.jpg"
+      ],
+      "sale_price": 9000000,
+      "name": "OPPO Reno-10x "
+    },
+    {
+      "_id": "5fbefc629ffa56030f017242",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430994109-b5dbd489-2630-4232-ace0-3367bd6c20de-oppo-reno2-f-xanh-600x600-600x600.jpg"
+      ],
+      "sale_price": 5000000,
+      "name": "OPPO Reno-2 "
+    },
+    {
+      "_id": "5fbefbf39ffa56030f017241",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430974960-f0c07df7-2139-4b83-8d6a-b5784eb8d9c0-nokia-72-black-600x600.jpg"
+      ],
+      "sale_price": 3000000,
+      "name": "Nokia 72 Black "
+    }
+  ],
+  "date_of_sale": 1607433749285,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcfbc0fffbe0a2fc845b46d"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi",
+  "status": "Đang chuyển hàng",
+  "name_user": "Lo Văn Dũng",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "47,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefd599ffa56030f017246",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430951240-4831031e-aeaa-4056-ad27-0ea58d396948-vsmart-star-3-xanh-600x600-600x600.jpg"
+      ],
+      "sale_price": 7000000,
+      "name": "Vsmart Star 3 "
+    },
+    {
+      "_id": "5fbe8c2ed9383e1914506265",
+      "qty": 2,
+      "avatar": [
+        "images/product/avatar/1607417113050-7d8572a3-ee8d-4d44-a014-b119318ebf05-product-1.png"
+      ],
+      "sale_price": 20000000,
+      "name": "iPhone 11 64GB  "
+    }
+  ],
+  "date_of_sale": 1607449615211,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcfbc62ffbe0a2fc845b46e"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi, Ha Noi",
+  "status": "Đang chuyển hàng",
+  "name_user": "Nguyen Duy Thai",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "60,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbe8c2ed9383e1914506265",
+      "qty": 3,
+      "avatar": [
+        "images/product/avatar/1607417113050-7d8572a3-ee8d-4d44-a014-b119318ebf05-product-1.png"
+      ],
+      "sale_price": 20000000,
+      "name": "iPhone 11 64GB  "
+    }
+  ],
+  "date_of_sale": 1607449698806,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcfbe8694e0a930e1c31e81"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi",
+  "status": "Hủy đơn",
+  "name_user": "Hoang Anh Vien",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "20,900,000",
+  "product_detail": [
+    {
+      "_id": "5fbe94c3d9383e191450626e",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430908437-e32ca5b0-741a-4454-9e67-1128e8adc050-product-10.png"
+      ],
+      "sale_price": 8000000,
+      "name": "iPhone 0 Pro Max "
+    },
+    {
+      "_id": "5fbe9391d9383e191450626d",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430897732-58abe887-8478-4dac-a380-567235c05c26-product-9.png"
+      ],
+      "sale_price": 6900000,
+      "name": "Samsung Joy 3 (3GB/32GB) "
+    },
+    {
+      "_id": "5fbe931dd9383e191450626c",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430880690-0c0e1996-4b83-49b1-be5d-0965e63f931d-product-8.png"
+      ],
+      "sale_price": 6000000,
+      "name": "Nokia 72 Black "
+    }
+  ],
+  "date_of_sale": 1607450246497,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcfbf8785cfa131452052d5"
+  },
+  "phone": "0964869883",
+  "address": "3",
+  "status": "Hủy đơn",
+  "name_user": "fggf",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "8,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbe94c3d9383e191450626e",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430908437-e32ca5b0-741a-4454-9e67-1128e8adc050-product-10.png"
+      ],
+      "sale_price": 8000000,
+      "name": "iPhone 0 Pro Max "
+    }
+  ],
+  "date_of_sale": 1607450503469,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fcfc099e57a4332739fa850"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi, Ha Noi",
+  "status": "Đang chuyển hàng",
+  "name_user": "Nguyen Duy Thai",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "48,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbe8e5ad9383e1914506267",
+      "qty": 2,
+      "avatar": [
+        "images/product/avatar/1607417142447-439a5c26-50c8-4231-b7cf-3cb5fb1eec67-product-3.png"
+      ],
+      "sale_price": 24000000,
+      "name": "OPPO A5 (2020) 64GB "
+    }
+  ],
+  "date_of_sale": 1607450777449,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0de09c32594098660a3b4"
+  },
+  "phone": "0964869883",
+  "address": "3",
+  "status": "Đang chuyển hàng",
+  "name_user": "fggf",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "6,900,000",
+  "product_detail": [
+    {
+      "_id": "5fbe9391d9383e191450626d",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607430897732-58abe887-8478-4dac-a380-567235c05c26-product-9.png"
+      ],
+      "sale_price": 6900000,
+      "name": "Samsung Joy 3 (3GB/32GB) "
+    }
+  ],
+  "date_of_sale": 1607523849935,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0de4d03251e0aad8d2923"
+  },
+  "phone": "0964869883",
+  "address": "3",
+  "status": "Đang chuyển hàng",
+  "name_user": "fggf",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "8,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefd1f9ffa56030f017245",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg"
+      ],
+      "sale_price": 8000000,
+      "name": "Samsung Galaxy Fold Black "
+    }
+  ],
+  "date_of_sale": 1607523917427,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0de5703251e0aad8d2924"
+  },
+  "phone": "0964869883",
+  "address": "3",
+  "status": "Đang chuyển hàng",
+  "name_user": "fggf",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "8,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefd1f9ffa56030f017245",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg"
+      ],
+      "sale_price": 8000000,
+      "name": "Samsung Galaxy Fold Black "
+    }
+  ],
+  "date_of_sale": 1607523927237,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0dea37eb0830add9c7756"
+  },
+  "phone": "0964869883",
+  "address": "3",
+  "status": "Đang chuyển hàng",
+  "name_user": "fggf",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "16,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefd1f9ffa56030f017245",
+      "qty": 2,
+      "avatar": [
+        "images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg"
+      ],
+      "sale_price": 8000000,
+      "name": "Samsung Galaxy Fold Black "
+    }
+  ],
+  "date_of_sale": 1607524003706,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fd0e8336989691053c3d0b5"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi",
+  "status": "Đang chuyển hàng",
+  "name_user": "Nguyen Duy Thai",
+  "email": "nguyenduythai16012000@gmail.com",
+  "total_price": "18,000,000",
+  "product_detail": [
+    {
+      "_id": "5fbefd1f9ffa56030f017245",
+      "qty": 1,
+      "avatar": [
+        "images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg"
+      ],
+      "sale_price": 8000000,
+      "name": "Samsung Galaxy Fold Black "
+    },
+    {
+      "_id": "5fbefc629ffa56030f017242",
+      "qty": 2,
+      "avatar": [
+        "images/product/avatar/1607430994109-b5dbd489-2630-4232-ace0-3367bd6c20de-oppo-reno2-f-xanh-600x600-600x600.jpg"
+      ],
+      "sale_price": 5000000,
+      "name": "OPPO Reno-2 "
+    }
+  ],
+  "date_of_sale": 1607526451405,
+  "__v": 0
+}]

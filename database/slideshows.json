@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "5fbb95fe139cfc179b00af35"
+  },
+  "avatar": "images/slideshow/1606129150574-937de38a-ebda-4ba8-8e4e-bb67c3c5b0d1-slide-2.png",
+  "updatedAt": null,
+  "createdAt": 1606129150599,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbb960e139cfc179b00af36"
+  },
+  "avatar": "images/slideshow/1606129166288-3b337380-300c-4911-8a09-accd7b82421c-slide-3.png",
+  "updatedAt": null,
+  "createdAt": 1606129166293,
+  "__v": 0
+}]

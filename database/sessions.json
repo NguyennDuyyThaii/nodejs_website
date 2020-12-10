@@ -1,0 +1,19 @@
+[{
+  "_id": "YWhFcmS1xlXr1PQq4eX8qDZzrlUN4VGM",
+  "expires": {
+    "$date": "2020-12-10T15:15:06.586Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":86399985,\"expires\":\"2020-12-10T15:15:06.586Z\",\"httpOnly\":true,\"path\":\"/\"},\"flash\":{},\"passport\":{\"user\":\"5fb0e3710dfbf80d8b49284f\"}}"
+},{
+  "_id": "WAa0VACuAciHy1nAk872ZjG8sMnqcQIa",
+  "expires": {
+    "$date": "2020-12-10T16:26:50.029Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":86400000,\"expires\":\"2020-12-10T16:26:50.029Z\",\"httpOnly\":true,\"path\":\"/\"},\"flash\":{},\"passport\":{\"user\":\"5fb0e3710dfbf80d8b49284f\"}}"
+},{
+  "_id": "vZcvvbth9RGhhKjBT8atGUcDPdbF6jwz",
+  "expires": {
+    "$date": "2020-12-11T03:39:36.800Z"
+  },
+  "session": "{\"cookie\":{\"originalMaxAge\":86399999,\"expires\":\"2020-12-11T03:39:36.800Z\",\"httpOnly\":true,\"path\":\"/\"},\"cart\":[{\"_id\":\"5fbefd599ffa56030f017246\",\"qty\":2,\"avatar\":[\"images/product/avatar/1607430951240-4831031e-aeaa-4056-ad27-0ea58d396948-vsmart-star-3-xanh-600x600-600x600.jpg\"],\"sale_price\":7000000,\"name\":\"Vsmart Star 3 \"},{\"_id\":\"5fbefd1f9ffa56030f017245\",\"qty\":2,\"avatar\":[\"images/product/avatar/1607431044980-cf0b9408-79aa-4352-ba20-e8765ad55dca-samsung-galaxy-a51-white-600x600.jpg\"],\"sale_price\":8000000,\"name\":\"Samsung Galaxy Fold Black \"},{\"_id\":\"5fbefcea9ffa56030f017244\",\"qty\":1,\"avatar\":[\"images/product/avatar/1607431029870-dc778764-dd3f-46fa-8b83-0af31ce8548f-samsung-galaxy-note-10-plus-blue-600x600.jpg\"],\"sale_price\":9000000,\"name\":\"Samsung Galaxy Note 10 \"}],\"flash\":{}}"
+}]

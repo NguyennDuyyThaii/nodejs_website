@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "5fbab5197cf2bc049efbdcbf"
+  },
+  "phone": "0964869883",
+  "address": "Thai Binh",
+  "deleted_at": null,
+  "name": "Nguyen Duy Thai",
+  "email": "nguyenduythai16012000@gmail.com",
+  "created_at": 1606071577003,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbab5487cf2bc049efbdcc0"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi, Ha Noi",
+  "deleted_at": null,
+  "name": "Nguyễn Tấn Cường",
+  "email": "tancuong16012000@gmail.com",
+  "created_at": 1606071624587,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fbab55a7cf2bc049efbdcc1"
+  },
+  "phone": "0964869883",
+  "address": "Ha Noi, Ha Noi",
+  "deleted_at": null,
+  "name": "Chu Thị Hoa",
+  "email": "Chuhoa16012000@gmail.com",
+  "created_at": 1606071642958,
+  "__v": 0
+}]

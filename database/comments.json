@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "5fc5f7625b68290a629148e4"
+  },
+  "name": "Nguyen Duy Thai",
+  "updatedAt": null,
+  "email": "nguyenduythai16012000@gmail.com",
+  "content": "ksdfkjsdfjksdf",
+  "product_id": {
+    "$oid": "5fbefd1f9ffa56030f017245"
+  },
+  "createdAt": 1606809442108,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc5fa033196490c44214deb"
+  },
+  "name": "Ha Anh Tuan",
+  "updatedAt": null,
+  "email": "thaindph09550@fpt.edu.vn",
+  "content": "mot san pham rat tot",
+  "product_id": {
+    "$oid": "5fbefd1f9ffa56030f017245"
+  },
+  "createdAt": 1606810115959,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc5faf63196490c44214dec"
+  },
+  "name": "sdfsdfklsdjfsdf",
+  "updatedAt": null,
+  "email": "nguyenduythai16012000@gmail.com",
+  "content": "sfkaklgjsdlkgdfsg",
+  "product_id": {
+    "$oid": "5fbefcea9ffa56030f017244"
+  },
+  "createdAt": 1606810358418,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc5faff3196490c44214ded"
+  },
+  "name": "asfkaskfaslfasdf",
+  "updatedAt": null,
+  "email": "nguyenduythai16012000@gmail.com",
+  "content": "asfk.sa.fassa",
+  "product_id": {
+    "$oid": "5fbefcea9ffa56030f017244"
+  },
+  "createdAt": 1606810367176,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fc5fcc73196490c44214dee"
+  },
+  "name": "jkjkj",
+  "updatedAt": null,
+  "email": "nguyenduythai16012000@gmail.com",
+  "content": "hhhj",
+  "product_id": {
+    "$oid": "5fbe9504d9383e191450626f"
+  },
+  "createdAt": 1606810823420,
+  "__v": 0
+}]

@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "5fb0e3710dfbf80d8b49284f"
+  },
+  "local": {
+    "isActive": true,
+    "email": "nguyenduythai16012000@gmail.com",
+    "password": "$2b$07$nZHG/h820vegnYSb1HlGz.84vr/JtaXAstNu9NIkPwJuPOdZm9ZTS",
+    "verifyToken": null
+  },
+  "gender": "male",
+  "phone": null,
+  "address": null,
+  "avatar": null,
+  "role": "user",
+  "updatedAt": null,
+  "deletedAt": null,
+  "username": "nguyenduythai16012000",
+  "createdAt": 1605428081531,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5fb15adb100ff11a3b94fd26"
+  },
+  "local": {
+    "isActive": true,
+    "email": "thaindph09550@fpt.edu.vn",
+    "password": "$2b$07$.FD9.cNTixAQy.jpeNnmE.gte.JUvOGpqSbQFxpAo0tW3ihJx9lGC",
+    "verifyToken": null
+  },
+  "gender": "male",
+  "phone": null,
+  "address": null,
+  "avatar": null,
+  "role": "user",
+  "updatedAt": null,
+  "deletedAt": null,
+  "username": "thaindph09550",
+  "createdAt": 1605458651134,
+  "__v": 0
+}]
