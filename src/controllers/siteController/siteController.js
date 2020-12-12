@@ -693,7 +693,7 @@ let postCart = async (req, res) => {
     }
   }
   catch (error) {
-    console.log(error)
+    errorArr.push(error)
   }
 }
 
