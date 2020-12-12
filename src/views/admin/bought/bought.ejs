@@ -16,11 +16,7 @@
         </div>
     </div>
     <!--/.row-->
-    <div id="toolbar" class="btn-group">
-        <a href="/boughtCheck" class="btn btn-success">
-            <i class="glyphicon glyphicon-plus"></i> Cập nhập trạng thái sản phẩm
-        </a>
-    </div>
+
     <div class="row">
         <div class="col-xs-12 col-md-6 col-lg-3">
             <div class="panel panel-blue panel-widget ">
@@ -72,12 +68,12 @@
         <div class="col-md-12">
             <div class="panel panel-default">
                 <div class="panel-body">
-                        <% if(success != null){ %>
-                            <% success.forEach(element => { %>
-                            <div class="alert alert-success"><%= element %> </div>
-                            <%   }); %>
-                            <%  %>
-                            <% } %>
+                    <% if(success != null){ %>
+                    <% success.forEach(element => { %>
+                    <div class="alert alert-success"><%= element %> </div>
+                    <%   }); %>
+                    <%  %>
+                    <% } %>
                     <table data-toolbar="#toolbar" data-toggle="table">
 
                         <thead>
@@ -112,6 +108,8 @@
                                     <button name="sbm" class="btn btn-primary"><%= item.status %> </button>
                                     <% }else if(item.status == "Hủy đơn"){ %>
                                     <button name="sbm" class="btn btn-danger"><%= item.status %> </button>
+                                    <%}else if(item.status == "Nên xóa"){%>
+                                        <button name="sbm" class="btn btn-info"><%= item.status %> </button>
                                     <%}else{%>
 
                                     <%} %>
@@ -130,8 +128,12 @@
                                             class="glyphicon glyphicon-remove"></i></a>
                                 </td>
                                 <td>
-                                    <button name="sbm" class="btn btn-success"> <a
-                                            href="/boughtCheck/<%= item._id %>" class=" btn btn-primary">Cập nhập</a></button>
+                                    <% if(item.status == "Đã hoàn thành") {%>
+                                    <button name="sbm" class="btn btn-success"> <a href="/boughtCheck/<%= item._id %>"
+                                            class=" btn btn-primary">Cập nhập</a></button>
+                                    <%}else{ %>
+
+                                    <% } %>
                                 </td>
                             </tr>
                             <%}) %>

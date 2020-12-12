@@ -95,9 +95,14 @@ let boughtCheck = (req, res) => {
                     let item = {
                         qtySeller: qtySeller + item2.qty
                     }
+                    let x = {
+                        status: "Nên xóa"
+                    }
                     await productModel.updateProduct(p._id, item)
+                    await invoiceModel.updateInvoices(id, x)
                 }
             })
+            
         })
         req.flash("success", "Cập nhập trạng thái sản phẩm thành công!")
         res.redirect('/bought')

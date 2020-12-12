@@ -11,6 +11,8 @@ const {
     productValidation,
     boughtValidation } = require("./../validation/index")
 const initPassportLocal = require("./../controllers/passportController/local")
+const initPassportFacebook = require("./../controllers/passportController/facebook")
+const initPassportGoogle = require("./../controllers/passportController/google")
 const uploadFileMiddleware = require("./../middleware/post/upload")
 const uploadFileProductMiddleware = require("./../middleware/product/product")
 const uploadMultipleFileMiddlewareProduct = require("./../middleware/product/gallery")
@@ -19,6 +21,7 @@ const express = require("express")
 const router = express.Router()
 
 initPassportLocal()
+initPassportFacebook()
 let initRouter = (app) => {
     // DASHBOARD
     router.get('/admin', logout.checkLoggedIn, dashboard.getDashboard)
@@ -32,6 +35,12 @@ let initRouter = (app) => {
         failureRedirect: "/signin",
         successFlash: true,
         failureFlash: true
+    }))
+    //fb
+    router.get('/auth/facebook', passport.authenticate("facebook", {scope: ["email"]}))
+    router.get('/auth/facebook/callback', passport.authenticate("facebook", {
+        successRedirect: "/admin",
+        failureRedirect: "/signin"
     }))
     // SignUp-Register
     router.get('/signup', logout.checkLoggedOut, SignUp.getSignUp)
