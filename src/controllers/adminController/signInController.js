@@ -1,7 +1,7 @@
-
-let getSignIn = async (req,res) => {
+let getSignIn = async(req, res) => {
     return res.render("admin/login-register/signIn", {
-        success: req.flash("success")
+        success: req.flash("success"),
+        errors: req.flash("errors")
     })
 }
 

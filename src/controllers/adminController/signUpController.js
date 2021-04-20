@@ -7,7 +7,7 @@ let getSignUp = (req, res) => {
     })
 }
 
-let postRegister = async (req, res) => {
+let postRegister = async(req, res) => {
     let errorArr = []
     let successArr = []
     let validationErrors = validationResult(req)
@@ -20,26 +20,26 @@ let postRegister = async (req, res) => {
         return res.redirect("/signup")
     }
     try {
-        let createUser =  await registerService.register(req.body.email, req.body.password, req.body.gender, req.protocol, req.get("host"))
+        let createUser = await registerService.register(req.body.email, req.body.password, req.body.gender, req.protocol, req.get("host"))
         successArr.push(createUser)
         req.flash("success", successArr)
-        return res.redirect("/signup")
-    } catch (error) { 
+        return res.redirect("/signin")
+    } catch (error) {
         errorArr.push(error)
         req.flash("errors", errorArr)
         return res.redirect("/signup")
     }
 }
- 
-let verifyAccount = async (req,res) => {
+
+let verifyAccount = async(req, res) => {
     let errorArr = []
     let successArr = []
-    try{
+    try {
         let verifySuccess = await registerService.verifyAccount(req.params.token)
         successArr.push(verifySuccess)
         req.flash("success", successArr)
         return res.redirect("/signup")
-    }catch (error) {
+    } catch (error) {
         errorArr.push(error)
         req.flash("errors", errorArr)
         return res.redirect("/signup")

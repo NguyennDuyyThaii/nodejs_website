@@ -10,7 +10,7 @@ let initPassportLocal = () => {
         usernameField: "email",
         passwordField: "password",
         passReqToCallback: true
-    }, async (req, email, password, done) => {
+    }, async(req, email, password, done) => {
         try {
             let user = await UserModel.findByEmail(email)
             if (!user) {
@@ -38,7 +38,7 @@ let initPassportLocal = () => {
     passport.deserializeUser((id, done) => {
         UserModel.findUserById(id)
             .then(user => {
-                return done(null,user)
+                return done(null, user)
             })
             .catch(error => {
                 return done(error, null)
