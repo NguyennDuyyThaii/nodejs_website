@@ -5,7 +5,7 @@ export DB_NAME=node_web
 export DB_USERNAME=""
 export DB_PASSWORD=""
 
-export APP_PORT=8017
+export APP_PORT=3000
 
 export MAIL_USER=nguyenduythai16012000@gmail.com
 export MAIL_PASSWORD=nguyenthai2k

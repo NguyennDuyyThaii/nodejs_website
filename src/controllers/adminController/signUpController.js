@@ -24,14 +24,13 @@ let postRegister = async (req, res) => {
         successArr.push(createUser)
         req.flash("success", successArr)
         return res.redirect("/signup")
-    } catch (error) {
+    } catch (error) { 
         errorArr.push(error)
         req.flash("errors", errorArr)
         return res.redirect("/signup")
     }
-   
 }
-
+ 
 let verifyAccount = async (req,res) => {
     let errorArr = []
     let successArr = []

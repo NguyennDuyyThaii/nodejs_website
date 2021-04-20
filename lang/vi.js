@@ -6,7 +6,7 @@ const Registererrors = {
     email_in_use: "Email này đã tồn tại trong một tài khoản khác !",
     account_removed: "Tài khoản này đã bị gỡ khỏi hệ thống của chúng tôi",
     account_not_active: "Tài khoản này đã được đăng kí nhưng chưa được ACTIVE, kiểm tra email của bạn"
-}
+} 
 const Registersuccess = {
     userCreated: (useremail) => {
         return `Tài khoản <strong>${useremail}</strong> đã đăng kí nhưng chưa kích hoạt, vui lòng kiểm tra email mà bạn đã đăng kí!`

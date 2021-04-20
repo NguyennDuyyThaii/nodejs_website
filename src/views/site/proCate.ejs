@@ -1,18 +1,22 @@
 <%- include('./header') %>
-<!--	End Slider	-->
-<!--	Feature Product	-->
-<!--	End Feature Product	-->
-<!--	Latest Product	-->
-<div class="products">
+    <!--	End Slider	-->
+    <!--	Feature Product	-->
+    <!--	End Feature Product	-->
+    <!--	Latest Product	-->
+    <div class="products">
         <h3 style="color: #2980b9">Các sản phẩm </h3>
         <div class="row">
-                <% product.forEach(item=> { %>
+            <% product.forEach(item=> { %>
                 <div class="col-sm-4 text-center mb-3">
                     <div class="card">
-                        <a href="" class="d-block"><img src="./../<%= item.avatar %> " style="width: 150px; height: 200px"
+                        <a href="/productDetail/<%= item._id %>" class="d-block"><img src="./../<%= item.avatar %> " style="width: 150px; height: 200px"
                                 class="card-img-top"></a>
                         <div class="card-body">
-                            <h4><a href=""><%= item.name %> </a></h4>
+                            <h4>
+                                <a href="/productDetail/<%= item._id %>">
+                                    <%= item.name %>
+                                </a>
+                            </h4>
                             <p>Giá Bán: <span style="text-decoration: line-through"><%= item.price.toLocaleString() %> vnđ</span></p>
                             <p>Giá Mới: <span style="color: red"><%= item.sale_price.toLocaleString() %>  vnđ</span></p>
                             <!-- <div class="star">
@@ -26,15 +30,15 @@
                     </div>
                 </div>
                 <%  }) %>
-        
-            </div>
+
+        </div>
 
     </div>
-<!--	End Latest Product	-->
-</div>
-<%- include('./sidebar') %>
-</div>
-</div>
-</div>
-<!--	End Body	-->
-<%- include("./footer") %>
+    <!--	End Latest Product	-->
+    </div>
+    <%- include('./sidebar') %>
+        </div>
+        </div>
+        </div>
+        <!--	End Body	-->
+        <%- include("./footer") %>
